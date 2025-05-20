@@ -2,17 +2,14 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: California State University, Long Beach, B.S. Mechanical Engineering
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
-    description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - During my time at California State University, Long Beach (CSULB), where I pursued a degree in 
+       Mechanical Engineering, I developed a strong foundation in engineering principles while honing 
+       my skills in teamwork, problem-solving, and innovation. Throughout my studies, I actively engaged 
+       in collaborative projects that challenged me to think critically and adapt to new technologies. 
+       Whether it was designing mechanical systems, troubleshooting complex issues, or working with diverse teams, 
+       I consistently sought out opportunities to learn and push boundaries. My passion for continuous learning and 
+       creativity drove me to approach each challenge not just as a task, but as a chance to innovate and grow.
+    grade: "**GPA**: `3.5`"
+    date: May 2025
