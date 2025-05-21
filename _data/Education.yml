@@ -3,7 +3,7 @@ listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: California State University, Long Beach
-    ref: B.S. Mechanical Engineering
+    role: B.S. Mechanical Engineering
     description:
       - During my time at California State University, Long Beach (CSULB), where I pursued a degree in 
        Mechanical Engineering, I developed a strong foundation in engineering principles while honing 
