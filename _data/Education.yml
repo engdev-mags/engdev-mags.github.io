@@ -2,7 +2,8 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: California State University, Long Beach, B.S. Mechanical Engineering
+  - title: California State University, Long Beach
+    ref: B.S. Mechanical Engineering
     description:
       - During my time at California State University, Long Beach (CSULB), where I pursued a degree in 
        Mechanical Engineering, I developed a strong foundation in engineering principles while honing 
@@ -11,5 +12,5 @@ contents:
        Whether it was designing mechanical systems, troubleshooting complex issues, or working with diverse teams, 
        I consistently sought out opportunities to learn and push boundaries. My passion for continuous learning and 
        creativity drove me to approach each challenge not just as a task, but as a chance to innovate and grow.
-    grade: "**GPA**: `3.5`"
+    grade: "**GPA**: 3.5"
     date: May 2025
